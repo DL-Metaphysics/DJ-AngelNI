@@ -1,6 +1,6 @@
 # DL-AngelNI
 ## Who am I  ？:star:
-User ： Hui Ning or Sky
+User ： Ning hui or Sky
 
 Introduction： an evolving rookie
 
