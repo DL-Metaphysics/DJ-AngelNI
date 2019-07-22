@@ -11,45 +11,45 @@ Introduction： an evolving rookie
 My blog : <https://skr-king.github.io/>
 ## My Study  :notebook_with_decorative_cover:
 ### :lollipop:Learining note
-k-means
+:pushpin:k-means
 
-gradient descent
+:pushpin:gradient descent
 
-matrix factorization
+:pushpin:matrix factorization
 
-K-nearest-neighbor
+:pushpin:K-nearest-neighbor
 
 ### :lollipop:week-test
 
-gradient descent's test
+:pushpin:gradient descent's test
 
-KNN's test 
+:pushpin:KNN's test 
 ### :lollipop:study_day-1
-ubyte手写体显示
+:pushpin:ubyte手写体显示
 
-手写数字识别测试代码（查）
+:pushpin:手写数字识别测试代码（查）
 ### :lollipop:study_day-2
 
-KNN（冲量补充）优化
+:pushpin:KNN（冲量补充）优化
 
-神经网络
+:pushpin:神经网络
 
 ### :lollipop:study_day-3
 
-第一个手写的神经网络
+:pushpin:第一个手写的神经网络
 
-卷积神经网络CNN理论（无数学推导）
+:pushpin:卷积神经网络CNN理论（无数学推导）
 
 ### :lollipop:study_day-4
 
-python——class 学习
+:pushpin:python——class 学习
 
-论文分解学习（未上传）
-## :lollipop:HOMEWORK
-GD——text
+:pushpin:论文分解学习（未上传）
+## :pencil2:HOMEWORK
+:pushpin:GD——text
 
-第一个手写的神经网络
+:pushpin:第一个手写的神经网络
 
-KNN(自)
+:pushpin:KNN(自)
 
-鸢尾花分类（KNN）
+:pushpin:鸢尾花分类（KNN）
