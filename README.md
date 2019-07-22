@@ -45,3 +45,11 @@ KNN（冲量补充）优化
 python——class 学习
 
 论文分解学习（未上传）
+## :lollipop:HOMEWORK
+GD——text
+
+第一个手写的神经网络
+
+KNN(自)
+
+鸢尾花分类（KNN）
